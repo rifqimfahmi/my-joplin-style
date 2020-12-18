@@ -1,4 +1,4 @@
 # my-joplin-style
-custom joplin mateerial design style
+custom joplin material design style
 
 inspired from https://github.com/hrqmonteiro/joplin-theme
