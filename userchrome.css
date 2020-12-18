@@ -415,7 +415,7 @@ input:focus {
 
 /* ==CodeMirror editor modifications - these will not work with the default ACE editor== */
 span[role="presentation"] {
-    color: black;
+    color: navajowhite;
    /* changes the font colour for the editor text */
 }
 .cm-variable-2, .cm-meta {
